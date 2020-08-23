@@ -1,0 +1,19 @@
+
+h1.dato {
+  color: rgb(0, 12, 78);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 70px;
+}
+
+p.dato {
+    color: rgb(255, 0, 0);
+    margin-top: 200px;
+    margin-bottom: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+  margin: -8;
+  padding: 30px;
+  background-color: black;
+  color: white;
+}
