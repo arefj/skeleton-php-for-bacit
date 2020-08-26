@@ -4,7 +4,6 @@ h1.dato {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 70px;
 }
-
 p.dato {
     color: rgb(255, 0, 0);
     margin-top: 200px;
@@ -16,4 +15,8 @@ footer {
   padding: 30px;
   background-color: black;
   color: white;
+}
+table, th, td {
+  border-width: 1px;
+  border-style: solid;
 }
